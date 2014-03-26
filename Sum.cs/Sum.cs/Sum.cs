@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Sum.cs
 {
-    class Program
+    class Sum
     {
         static void Main(string[] args)
         {
