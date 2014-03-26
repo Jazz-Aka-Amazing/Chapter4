@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum.cs", "Sum.cs\Sum.cs.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel.cs", "..\GetVowel.cs\GetVowel.cs.csproj", "{CB7E58A9-BBD0-426B-82AA-0CC16A3DBED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRateLoop.cs", "..\EnsureValidPayRateLoop.cs\EnsureValidPayRateLoop.cs.csproj", "{05CC8C40-1F37-49F2-815D-ADE912EBAE46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{CB7E58A9-BBD0-426B-82AA-0CC16A3DBED0}.Debug|x86.Build.0 = Debug|x86
 		{CB7E58A9-BBD0-426B-82AA-0CC16A3DBED0}.Release|x86.ActiveCfg = Release|x86
 		{CB7E58A9-BBD0-426B-82AA-0CC16A3DBED0}.Release|x86.Build.0 = Release|x86
+		{05CC8C40-1F37-49F2-815D-ADE912EBAE46}.Debug|x86.ActiveCfg = Debug|x86
+		{05CC8C40-1F37-49F2-815D-ADE912EBAE46}.Debug|x86.Build.0 = Debug|x86
+		{05CC8C40-1F37-49F2-815D-ADE912EBAE46}.Release|x86.ActiveCfg = Release|x86
+		{05CC8C40-1F37-49F2-815D-ADE912EBAE46}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
